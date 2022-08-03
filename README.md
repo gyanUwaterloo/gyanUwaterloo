@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gyanUwaterloo
+- 👋 Hi, I’m Gyanendu Shekhar
 - 👀 I’m interested in exploring deep concepts used in design and development of libraries.
-- 🌱 I’m currently learning Advanced React 
+- 🌱 I’m currently exploring ideas and working on my long term goals. 
 - 💞️ I’m looking to collaborate on any project related to impact on Humankind.
 - 📫 How to reach me gyan107@gmail.com or gshekhar@uwaterloo.ca
 
